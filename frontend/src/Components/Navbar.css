@@ -1,0 +1,9 @@
+.navbar-brand{
+    color: darkred;
+    font-weight: 500;
+    /* font: Oswald; */
+}
+
+.bi-check2-all{
+    font-size: 150%;
+}
